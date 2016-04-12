@@ -1,4 +1,4 @@
-# DynamicProgramming
+# Dynamic Programming
 A compilation of dynamic programming problems.
 
 
