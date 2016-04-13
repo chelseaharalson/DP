@@ -11,7 +11,7 @@ https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
 
 http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/
 
-<br>
+
 # Divide and Conquer
 A compilation of notes on topics such as sorting, master's theorem, finding closest pair of points, Strassen's matrix multiplication, and maximum subsequence.
 
